@@ -1,0 +1,72 @@
+.container1{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 25px;
+    justify-content: center;
+    width: 100%;
+    justify-content: space-evenly;
+}
+
+.card1{
+    padding: 50px;
+    width: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    border-style: groove;
+    border-radius: 10px;
+    background-image: url(istock.jpg);
+    background-repeat: no-repeat;
+}
+.img1{
+    background-image: url(download.png);
+    padding: 100px;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+a{
+    text-decoration: none;
+    color: darkcyan;
+}
+h3{
+    font-size: xx-large
+}
+.card2{
+    padding: 50px;
+    width: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-style: groove;
+    border-radius: 10px;
+    background-image: url(design.jpg);
+    background-repeat: no-repeat;
+}
+.img2{
+    background-image: url(user_accounts.png);
+    padding: 100px;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}
+.card3{
+    padding: 50px;
+    width: 600px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    border-style: groove;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-image: url(photo.jpg);
+}
+.img3{
+    background-image: url(admini.jpg);
+    padding: 100px;
+    background-repeat: no-repeat;
+    border-radius: 50%;
+}

@@ -1,0 +1,11 @@
+.whole{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.container2{
+    width: 1000px;
+    padding: 15px;
+    height: 600px;
+    border-style: groove;
+}

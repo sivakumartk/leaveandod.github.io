@@ -1,0 +1,9 @@
+.rou{
+    display: flex;
+}
+.head{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 60px;
+}

@@ -1,0 +1,43 @@
+.container{
+    display: flex;
+    padding: 10px;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.cards :hover{
+    transform: scale(1.03);
+    cursor: pointer;
+    transition: 1s ease;
+}
+.cards{
+    width: 500px;
+    padding: 20px;
+    border-style: groove;
+    border-radius: 10px;
+    box-shadow: 10px 5px 5px grey;
+}
+.card-img{
+    background-color: aqua;
+    height: 160px;
+}
+.card1{
+    background-image: url(download\ \(1\).png);
+    background-size: cover;
+}
+.card2{
+    background-image: url(paper.jpg);
+    background-size: cover;
+}
+.card3{
+    background-image: url(trainer.jpg);
+    background-size: cover;
+}
+h2{
+    text-align: center;
+}
+body{
+    background-color: lavenderblush;
+}
+a{
+    text-decoration: none;
+}
